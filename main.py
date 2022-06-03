@@ -1,3 +1,7 @@
+// FCI - Programming 1 - 2022 - Assignment 1
+// Program Name:Number Scrabble Game
+// Last Modification Date: 05-03-2022
+// Author and ID and Group: Aya Ali Hassan & 20210083 & A
 list = [1,2,3,4,5,6,7,8,9]
 player1=[]
 player2=[]
